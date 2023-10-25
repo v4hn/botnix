@@ -84,7 +84,7 @@ but have run across some challenges along the way:
 1. The [Robot Operating System (ROS)](https://www.ros.org/) is not an OS at all, but
    rather, a collection of software packages. Getting ROS installed and configured for a
    particular OS can be a hassle. This increases the time needed to get up and running.
-   ROS also provides no little to no tools to manage robot sofware deployment, requiring
+   ROS also provides little to no tools to manage robot software deployment, requiring
    third-party tools with additional complexity and constraints.
 2. [RoboStack](https://robostack.github.io/) is a step in the right direction by using
    the Conda package manager for dependency management in C/C++ and Python projects.
